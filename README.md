@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Xin chào, tôi là Huỳnh Lê Phước Nguyên 👋</h1>
-  <p><b>Backend Developer | System Optimizer | Problem Solver</b></p>
+  <p><b>Backend Developer</b></p>
 </div>
 
 ---
