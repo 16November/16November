@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hello, I am Huynh Le Phuoc Nguyen 👋</h1>
-  <p><b>Backend Developer</b></p>
+  <h1>Hello, My name 's Huynh Le Phuoc Nguyen 👋</h1>
+  <p><b>Software Engineer</b></p>
 </div>
 
 ---
